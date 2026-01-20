@@ -1,7 +1,7 @@
 #define WATER_PIN   A0
 
-#define TRIG_FRONT  4
-#define ECHO_FRONT  5
+#define TRIG_FRONT  5
+#define ECHO_FRONT  4
 
 #define LED_RED     6
 #define LED_GREEN   8
